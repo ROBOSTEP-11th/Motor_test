@@ -1,0 +1,7 @@
+.clangd
+compile_commands.json
+BUILD
+.mbed
+.cache
+mbed-os
+mext_nspwmout_stm32
